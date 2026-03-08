@@ -1,0 +1,14 @@
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\bin\Debug\net10.0\Atividade4Aula01.exe
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\bin\Debug\net10.0\Atividade4Aula01.deps.json
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\bin\Debug\net10.0\Atividade4Aula01.runtimeconfig.json
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\bin\Debug\net10.0\Atividade4Aula01.dll
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\bin\Debug\net10.0\Atividade4Aula01.pdb
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.AssemblyInfoInputs.cache
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.AssemblyInfo.cs
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.csproj.CoreCompileInputs.cache
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.dll
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\refint\Atividade4Aula01.dll
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.pdb
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\Atividade4Aula01.genruntimeconfig.cache
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Atividade4Aula01\Atividade4Aula01\obj\Debug\net10.0\ref\Atividade4Aula01.dll

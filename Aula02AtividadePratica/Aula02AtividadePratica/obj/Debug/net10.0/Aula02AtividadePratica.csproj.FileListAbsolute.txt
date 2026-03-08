@@ -1,0 +1,14 @@
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\bin\Debug\net10.0\Aula02AtividadePratica.exe
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\bin\Debug\net10.0\Aula02AtividadePratica.deps.json
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\bin\Debug\net10.0\Aula02AtividadePratica.runtimeconfig.json
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\bin\Debug\net10.0\Aula02AtividadePratica.dll
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\bin\Debug\net10.0\Aula02AtividadePratica.pdb
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.AssemblyInfoInputs.cache
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.AssemblyInfo.cs
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.csproj.CoreCompileInputs.cache
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.dll
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\refint\Aula02AtividadePratica.dll
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.pdb
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\Aula02AtividadePratica.genruntimeconfig.cache
+C:\Users\rodol\OneDrive\Desktop\AtividadeC#\Aula02AtividadePratica\Aula02AtividadePratica\obj\Debug\net10.0\ref\Aula02AtividadePratica.dll
